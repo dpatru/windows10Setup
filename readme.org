@@ -1,0 +1,30 @@
+* Windows 10 Setup
+
+** Remap Caps Lock to Control Key 
+
+Use SharpKeys. https://github.com/randyrants/sharpkeys
+
+** Set Dark Mode in Windows 10 Settings
+
+Windows key, type "themes". Got to Colors tab.
+
+ - [ ] Change colors to a dark grey.
+ - [ ] Set Transparency effects to off.
+ - [ ] Choose "Dark" for default app mode.
+
+** Setup Chrome
+
+ - [ ] Install Google Chrome
+ - [ ] Set a dark theme in Chrome
+
+** Enable Linux Subsystem
+
+*** Install emacs 
+
+ - [ ] Windows Key - Bash - sudo apt install emacs
+
+** Install Putty
+
+ - [ ] http://www.putty.org
+
+
